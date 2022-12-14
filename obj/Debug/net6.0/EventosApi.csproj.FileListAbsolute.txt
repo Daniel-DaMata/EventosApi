@@ -80,3 +80,8 @@ C:\Users\User\Documents\Daniel\Projetos\EventosApi\obj\Debug\net6.0\refint\Event
 C:\Users\User\Documents\Daniel\Projetos\EventosApi\obj\Debug\net6.0\EventosApi.pdb
 C:\Users\User\Documents\Daniel\Projetos\EventosApi\obj\Debug\net6.0\EventosApi.genruntimeconfig.cache
 C:\Users\User\Documents\Daniel\Projetos\EventosApi\obj\Debug\net6.0\ref\EventosApi.dll
+C:\Users\User\Documents\Daniel\Projetos\EventosApi\bin\Debug\net6.0\publish\web.config
+C:\Users\User\Documents\Daniel\Projetos\EventosApi\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\User\Documents\Daniel\Projetos\EventosApi\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\User\Documents\Daniel\Projetos\EventosApi\bin\Debug\net6.0\publish\EventosApi.deps.json
+C:\Users\User\Documents\Daniel\Projetos\EventosApi\bin\Debug\net6.0\publish\EventosApi.runtimeconfig.json
